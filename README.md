@@ -2,7 +2,7 @@
 This is the repository accompanying our CVPR 2020 paper [Understanding Adversarial Examples from the Mutual Influence of Images and Perturbations](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Understanding_Adversarial_Examples_From_the_Mutual_Influence_of_Images_and_CVPR_2020_paper.pdf)
 
 ## Setup
-You can install the requirements by with `pip3 install requirements.txt`.
+You can install the requirements with `pip3 install requirements.txt`.
 
 ### Config
 Copy the `sample_config.py` to `config.py` (`cp ./config/sample_config.py ./config/config.py`) and edit the paths accordingly.
