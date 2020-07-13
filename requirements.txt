@@ -1,0 +1,5 @@
+numpy
+opencv-python
+matplotlib
+torch=1.0.1.post2
+torchvision=0.2.2

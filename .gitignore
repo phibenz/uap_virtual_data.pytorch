@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+
+.ipynb_checkpoints
+data/*
+models/*
+results/*
+config/config.py
+.Trash*
+.idea/*
+
+*.npy
