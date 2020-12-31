@@ -39,3 +39,14 @@ PLACES365_ROOT = "/home/user/Data/places365/"
 
 ## Run
 Run `bash ./run.sh` to generate UAPs for different target models trained on ImageNet using virtual data Places365. The bash script should be easy to adapt to perform different experiments. The jupyter notebook `pcc_analysis.ipynb` is an example for the PCC-analysis discussed in the paper. 
+
+## Citation
+```
+@inproceedings{zhang2020understanding,
+  title={Understanding Adversarial Examples From the Mutual Influence of Images and Perturbations},
+  author={Zhang, Chaoning and Benz, Philipp and Imtiaz, Tooba and Kweon, In So},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={14521--14530},
+  year={2020}
+}
+```
